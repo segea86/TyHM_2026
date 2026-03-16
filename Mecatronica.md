@@ -3,10 +3,15 @@
 
 ## Actividades
 
-4 de Marzo : Inductores y Servidor linux
-13 de Marzo : Indusctores (medición) , capacitores y lanzamiento de cuentas xbuntu. Seguimiento de satélites.
-
-
+* 4 de Marzo : Inductores y Servidor linux
+* 11 de Marzo : Inductores (medición) , capacitores y lanzamiento de cuentas xbuntu. Seguimiento de satélites.
+* 18 de Marzo
+  - Medición de capacitores DiY
+  - Uso de gpredict y ISS Detector
+  - Instalacion de gpredict en linux
+  - Relevamiento de servicios abiertos  
+  - Uso de la plantilla oficial de la cátedra
+  -  Creación Circuito Tanque LC 27.455 MHz
 
 
 
