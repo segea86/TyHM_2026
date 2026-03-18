@@ -30,7 +30,7 @@ Mediación de Materiales TyHM 2026
 | Modern Tech |  | Eugenio ,Sofía Blas Delpozzi, Rocio Anabel, Bianca Nicole, Camila |
 | Pipu’s  |  | Bautista, Ian, Mateo isgro, Joaquin |
 | Sinergia 5S |  | Scaccia 	Octavio, Benedetti	Gino , .	Rocío Andre , 	Sol Florindo ,Pereyra 	Martina  |
-| Tecnica2 ZZZ |  | Juan Manuel, Ariana Galli, Rocio Gomez, Maria Celina Lopez |
+| Tecnica2 ZZZ | https://github.com/bautistapons/entregass | * Juan Manuel, * Ariana Galli, Rocio Gomez, Maria Celina Lopez, Maia Ortiz, Bautista Pons |
 | $\lambda$|  | .	Juan Martín, Notti	Joaquin , Peiro	Francisco, .	Nicolas Sarmiento , .	Raimundo Glasner |
 
 
