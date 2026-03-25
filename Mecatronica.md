@@ -12,7 +12,17 @@
   - Relevamiento de servicios abiertos  
   - Uso de la plantilla oficial de la cátedra
   -  Creación Circuito Tanque LC 27.455 MHz
+* 25 de Marzo
+  - Tomás como Green Belt
+  - Designación de White Belt
+  - Escuchas en VHF SDR Radio
+  - Equipos para satélites <https://www.lu4aa.org/wp/wp-content/uploads/2024/10/Satelites-VILLAMARIA2024.pdf>
+  - Equipo de fotografía (hoy fotos de la luna y satélites jovianos) Ver tutorial del uso de cámara
+  - Designar un grupo de alumnos para asistir a la introducción a la redación de reportes.
+  - Introducción a metodologías ágiles de gestión de proyectos SCRUM
+  - Entrgea primar reporte Sprint 1
 
+    
 
 
 ## Listado de alumnos
