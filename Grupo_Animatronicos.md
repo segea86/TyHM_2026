@@ -4,7 +4,8 @@
 
 Este es un grupo que tiene a todos los estudiantes de mecatrónica del año 2026
 
-|Nombre                           | Correo Electrónico 
+|Nombre                           | Correo Electrónico      |
+|-----------------------------------------|-----------------|
 |acquistapace gabriel adolfo|acquistapaceg@gmail.com|
 |Agbo bauza Manuel|manuelagbo09@gmail.com|
 |Alarcon  Lautaro |ghostlauty007@gmail.com|
