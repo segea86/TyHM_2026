@@ -8,7 +8,7 @@
 
 11 de Marzo -> colab github tablas, incrustar imágenes, html w3c, construcción de landing page
 
-25 de Marzo -> Redacción informe módulo 1 con plantilla de la cátedra  !(demo)<https://www.overleaf.com/read/gtcnwjpqfgzx#0ea472>- Inicio del módulo 2
+25 de Marzo -> Redacción informe módulo 1 con plantilla de la cátedra  !(demo)[https://www.overleaf.com/read/gtcnwjpqfgzx#0ea472]- Inicio del módulo 2
 
 
 
