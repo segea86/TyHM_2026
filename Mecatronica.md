@@ -15,7 +15,8 @@
 * 25 de Marzo
   - Tomás como Green Belt
   - Designación de White Belt
-  - Escuchas en VHF SDR Radio
+  - Escuchas en VHF SDR Radio Frec. 146.820 MHz 147.390 
+  - https://www.n2yo.com/passes/amateur-radio.php
   - Equipos para satélites <https://www.lu4aa.org/wp/wp-content/uploads/2024/10/Satelites-VILLAMARIA2024.pdf>
   - Equipo de fotografía (hoy fotos de la luna y satélites jovianos) Ver tutorial del uso de cámara
   - Designar un grupo de alumnos para asistir a la introducción a la redación de reportes.
